@@ -1,0 +1,18 @@
+.image {
+    border-radius: 10px;
+    overflow: hidden;
+    height: 250px;
+    width: 100%;
+
+    img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+}
+
+.cam-button{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}

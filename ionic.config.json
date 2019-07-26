@@ -1,5 +1,7 @@
 {
   "name": "practApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
